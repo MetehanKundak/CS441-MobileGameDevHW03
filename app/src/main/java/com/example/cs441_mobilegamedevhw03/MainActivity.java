@@ -1,5 +1,6 @@
 package com.example.cs441_mobilegamedevhw03;
 
+//Metehan Kundak
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -11,8 +12,10 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
+import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends Activity {
+
+public class MainActivity extends AppCompatActivity {
 
     private ViewGroup main;
     private float x_new;
